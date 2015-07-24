@@ -44,7 +44,7 @@
     twitter_btn.hidden = YES;
     
     version_lbl.text = @"Version: 1.0";
-    build_lbl.text = @"Build: 1.2";
+    build_lbl.text = @"Build: 1.3";
     
     if ([[AppInfo sharedInfo] isLoggedIn]) {
         ACAccountStore *accountStore = [[ACAccountStore alloc] init];

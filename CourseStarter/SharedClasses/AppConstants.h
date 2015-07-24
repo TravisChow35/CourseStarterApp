@@ -46,7 +46,7 @@
 #define k_THUG_LIFE_VIDEO           @"ThugLifeVideo.mov"
 
 //#define SERVER_URL                  @"http://secret-wildwood-3498.herokuapp.com/catalog/"
-#define SERVER_URL                  @"https://coursestarter.herokuapp.com/catalog/"
+#define SERVER_URL                  @"https://coursestarter2015.herokuapp.com/catalog/"
 #define TIMEOUT_INTERVAL            30.0
 
 #define USER_DATA                   @"User_Data"
